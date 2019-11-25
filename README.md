@@ -1,0 +1,1 @@
+This will be my first official SOLO project where I attempt to re-create the Google homepage.
